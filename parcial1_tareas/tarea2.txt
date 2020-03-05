@@ -1,0 +1,11 @@
+Encontrar las raices de las siguientes ecuaciones por los metodos de:
+
+- Biseccion 
+- Secante    
+- Newthon Raphson
+
+f(x) = x^3 + 2x^2 + 10x - 20
+f(x) = x^4 + 3x^3 - 2
+f(x) = x^3 - 2x -5
+
+Subir a repositorio excel con ejercicios y pegar pantalla de comprobacion en Matlab 
