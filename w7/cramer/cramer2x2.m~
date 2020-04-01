@@ -3,7 +3,7 @@ clear all
 
 %Introducir valores de la matriz
 X=[5 -2; -3 7]
-B=[-2; -22]
+B=[-2;-22]
 
 disp('D= ')
 det (X)
