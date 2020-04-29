@@ -1,0 +1,21 @@
+Rubrica Parcial 2.
+
+Tareas   - 40 pts
+
+
+Proyecto - 60 pts
+
+Entrega en repositorio de github.com 
+
+1.- Reporte Tecnico PDF (4 cuartillas)  ->   20
+   - Breve de metodo de eliminacion gaussiana
+   - Description de metodo jacobi
+   - Description breve de metodo gauss-seidel
+   - Description breve de metodo newton-raphson pasa sistemas no lineales
+
+2.- Excel  -> 20 pts
+    a) en equipo : solucion del problema real aplicado por algún metodo
+	o
+    b) individual : 2 ejemplos por método 
+
+3.- Codigo Fuente Matlab (por equipo o individual ) ->    20 pts
