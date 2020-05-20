@@ -2,17 +2,20 @@ clc;
 clear all;
 % f=@(x)cos(x)-log(x)+exp(x); %Change here for different function
 %f=@(x) 2*(x); %Change here for different function
+
 dof = 9
 
 % f=@(x) (1+((x^2)/dof))^(-1*(dof+1)/2) ; %Change here for different function
 % f=@(x) (gamma((dof+1)/2)) / (( (dof * 3.1416) ^ 0.5 )*( gamma(dof/2))); %Change here for different function
 
  %Change here for different function
-%f=@(x) (1+((x^2)/dof))^(-1*(dof+1)/2) * (gamma((dof+1)/2)) / (( (dof * pi) ^ (1/2) )*( gamma(dof/2))); %Change here for different function
+f=@(x) ( 1+((x^2)/dof))^(-1*(dof+1)/2) * (gamma((dof+1)/2)) / (( (dof * pi) ^ (1/2) )*( gamma(dof/2))); 
+
+%Change here for different function
 %f=@(x) exp(x^2)
 %f=@(x) (1/x)
 
-f=@(x) (2*x)
+%f=@(x) (1/x)
 
 a=input('Enter lower limit a: '); % exmple a=1
  b=input('Enter upper limit b: ');  % exmple b=2
