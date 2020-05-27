@@ -1,6 +1,8 @@
 clear all
 clc
 f=@(x,y) x - y + 2; %Write your f(x,y) function, where dy/dx=f(x,y), x(x0)=y0.
+%f=@(x,y) 3*x^2; %Write your f(x,y) function, where dy/dx=f(x,y), x(x0)=y0.
+
 x0=input('\n Enter initial value of x i.e. x0: '); %example x0=0
 y0=input('\n Enter initial value of y i.e. y0: '); %example y0=0.5
 xn=input('\n Enter the final value of x: ');% where we need to find the value of y 

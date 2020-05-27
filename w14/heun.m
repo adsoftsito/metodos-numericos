@@ -4,6 +4,7 @@ x=input('x inicial =');
 y=input('y inicial =');
 h=input('h=');
 f=@(x,y) x - y + 2; %Write your f(x,y) function, where dy/dx=f(x,y), x(x0)=y0.
+%f=@(x,y) 3*x^2; %Write your f(x,y) function, where dy/dx=f(x,y), x(x0)=y0.
 
 l=input('num. segmentos :');
 i=0;c=zeros(1,1);z=0;
