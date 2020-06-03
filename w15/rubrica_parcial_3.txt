@@ -1,0 +1,25 @@
+Rubrica Parcial 3.
+
+Tareas   - 40 pts
+- regression lineal
+- polinomio de newton
+- integración numerica con simpson
+- euler y hen
+- ralston y runge kuta
+- curso de ecuaciones diferenciales udacity
+
+
+Proyecto - 60 pts
+
+Entrega en repositorio de github.com 
+
+1.- Reporte Tecnico PDF de aplicación real de ecuaciones diferenciales (4 cuartillas)  ->   20
+   - Breve description de metodo de euler
+   - Description de metodo heun
+   - Description breve de metodo ralston
+   - Description breve de metodo Runge Kuta de 4o orden
+
+2.- Excel  -> 20 pts
+    a) en equipo : solucion del problema real aplicando los 4 metodos
+	
+3.- Codigo Fuente Matlab (por equipo) ->    20 pts
