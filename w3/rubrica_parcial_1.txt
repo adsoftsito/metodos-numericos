@@ -1,0 +1,44 @@
+Rubrica Parcial 1.
+
+
+Tareas                 - 20%
+investigacion          - 10%  ( ver documento investigacion_parcial1.pdf)
+Proyecto parcial       - 40%
+
+avance proyecto final  - 30%  Tomar lección 1 de curso :
+( https://www.udacity.com/course/differential-equations-in-action--cs222 )
+
+
+1.- Entrega en repositorio de github.com  -> 10pts
+
+2.- Usar alguna herramienta para administrar tareas del proyecto
+    (project, trello, asana, GitHub, entre otros)   -> 10 pts
+
+3.- Reporte Tecnico PDF (5 cuartillas)  ->   10
+   - Introduccion
+   - Descripcion del problema a resolver
+   - Resultados
+   - Conclusiones
+4.- Excel con solucion del problema por los 4 metodos  -> 20 pts
+5.- Presentacion (powerpoint, pdf, látex, entre otros) -> 10 pts 
+6.- Codigo Fuente Matlab ->    20 pts
+7.- Ejecutable           ->    10 pts
+8.- Video corto del proyecto    ->    10    (5min maximo)
+
+
+--------------------------
+
+Algunas links para temas
+
+Lectura
+https://www.cimat.mx/Eventos/tallermn/img/botello_rionda.pdf
+
+Videos apoyo
+https://www.youtube.com/watch?v=V3xqeXB3CnA
+https://www.youtube.com/watch?v=Rx4UF7OasKA
+
+ing civil
+https://www.youtube.com/watch?v=Owz0zJVnxq8
+https://www.youtube.com/watch?v=MDB41a2U79U
+http://repositorio.imta.mx/bitstream/handle/20.500.12013/823/IMTA_011.pdf?sequence=1&isAllowed=y
+
