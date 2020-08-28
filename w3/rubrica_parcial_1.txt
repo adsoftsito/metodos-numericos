@@ -2,19 +2,22 @@ Rubrica Parcial 1.
 
 
 Tareas                 - 20%
-investigacion          - 10%  ( ver documento investigacion_parcial1.pdf)
-Proyecto parcial       - 40%
+investigacion          - 10%  ( ver documento investigacion_parcial1.pdf, día del parcial )
+Proyecto parcial       - 40%  ( en equipos 4 o 5 personas )
 
-avance proyecto final  - 30%  Tomar lección 1 de curso :
-( https://www.udacity.com/course/differential-equations-in-action--cs222 )
+Avance proyecto final  - 30%  Tomar lección 1 de curso :
+( https://www.udacity.com/course/differential-equations-in-action--cs222 ) ( dia del parcial)
 
+
+
+Proyecto parcial (40%)
 
 1.- Entrega en repositorio de github.com  -> 10pts
 
 2.- Usar alguna herramienta para administrar tareas del proyecto
-    (project, trello, asana, GitHub, entre otros)   -> 10 pts
+    (microsoft project, trello, asana, gitHub, entre otros)   -> 10 pts
 
-3.- Reporte Tecnico PDF (5 cuartillas)  ->   10
+3.- Reporte Tecnico PDF (5 cuartillas)  ->   20
    - Introduccion
    - Descripcion del problema a resolver
    - Resultados
@@ -22,13 +25,12 @@ avance proyecto final  - 30%  Tomar lección 1 de curso :
 4.- Excel con solucion del problema por los 4 metodos  -> 20 pts
 5.- Presentacion (powerpoint, pdf, látex, entre otros) -> 10 pts 
 6.- Codigo Fuente Matlab ->    20 pts
-7.- Ejecutable           ->    10 pts
-8.- Video corto del proyecto    ->    10    (5min maximo)
+7.- Video corto de su aportación   ->    10 pts    (5min maximo)
 
 
 --------------------------
 
-Algunas links para temas
+Algunos links para temas
 
 Lectura
 https://www.cimat.mx/Eventos/tallermn/img/botello_rionda.pdf
