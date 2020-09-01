@@ -17,14 +17,28 @@ Proyecto parcial (40%)
 2.- Usar alguna herramienta para administrar tareas del proyecto
     (microsoft project, trello, asana, gitHub, entre otros)   -> 10 pts
 
+reportetecnico
+--------------
 3.- Reporte Tecnico PDF (5 cuartillas)  ->   20
    - Introduccion
    - Descripcion del problema a resolver
    - Resultados
    - Conclusiones
+
+
+
+coding
+-----------
+
 4.- Excel con solucion del problema por los 4 metodos  -> 20 pts
-5.- Presentacion (powerpoint, pdf, látex, entre otros) -> 10 pts 
 6.- Codigo Fuente Matlab ->    20 pts
+
+
+
+presentaciones
+------------------
+
+5.- Presentacion (powerpoint, pdf, látex, entre otros) -> 10 pts 
 7.- Video corto de su aportación   ->    10 pts    (5min maximo)
 
 
