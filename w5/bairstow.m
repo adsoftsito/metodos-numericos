@@ -9,6 +9,7 @@ while true %Este ciclo nos permite validar que el primer coeficiente sea 1
  disp('El primer coeficiente debe ser igual a 1, por favor intente de nuevo.')
  end
 end
+
 format long;%Usaremos la mayor cantidad de dígitos posibles.
 Tol=0.0001;
 r = -1;
