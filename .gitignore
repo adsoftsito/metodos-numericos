@@ -1,0 +1,10 @@
+**/*.aux
+**/*.log
+**/*.nav
+**/*.out
+**/*.snm
+**/*.gz
+**/*.toc
+**/*.bcf
+**/*.xml
+.DS_Store
