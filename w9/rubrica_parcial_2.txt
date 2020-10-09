@@ -1,0 +1,49 @@
+Rubrica Parcial 2.
+
+
+Tareas                 - 20%
+investigacion          - 10%  ( 2 proyectos de matlab academy )
+Proyecto parcial       - 40%  ( en equipos 4 o 5 personas )
+
+Avance proyecto final  - 30%  Tomar Lesson 5: Contagion :
+( https://www.udacity.com/course/differential-equations-in-action--cs222 ) ( dia del parcial)
+
+
+
+Proyecto parcial (40%)
+
+Buscar un sistema de ecuaciones lineales o no lineales, que resuelvan al problema
+cientifico de su area de especialidad, resolverlo mediante los métodos de clase que 
+sean aplicables.
+
+1.- Entrega en repositorio de github.com  -> 10pts
+
+2.- Herramienta para administrar tareas del proyecto
+    (microsoft project, trello, asana, gitHub, entre otros)   -> 10 pts
+
+reportecnico
+--------------
+3.- Reporte Tecnico en latex (subir .tex y .pdf),  (5 cuartillas)  ->   20
+   - Introduccion
+   - Descripcion del problema a resolver
+   - Resultados
+   - Conclusiones
+
+
+
+coding
+-----------
+
+4.- Excel con solucion del problema por los 4 metodos  -> 20 pts
+6.- Codigo Fuente Matlab ->    20 pts
+
+
+
+presentaciones
+------------------
+
+5.- Presentacion  en latex usando beamer (subir .tex y .pdf) -> 10 pts 
+7.- Video corto de su aportación   ->    10 pts    (5min maximo)
+
+
+--------------------------
