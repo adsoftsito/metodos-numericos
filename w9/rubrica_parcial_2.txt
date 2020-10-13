@@ -12,8 +12,12 @@ Avance proyecto final  - 30%  Tomar Lesson 5: Contagion :
 
 Proyecto parcial (40%)
 
-Buscar un sistema de ecuaciones lineales o no lineales, que resuelvan al problema
-cientifico de su area de especialidad, resolverlo mediante los métodos de clase que 
+Buscar :
+  - 1.- un sistema de ecuaciones lineales 
+  - 2.- sistema de ecuaciones no lineales (newton-raphson para n variables)
+  - 3.- regresion lineal
+
+Para resolver un problema cientifico de su area de especialidad, resolverlo mediante los métodos de clase que 
 sean aplicables.
 
 1.- Entrega en repositorio de github.com  -> 10pts
@@ -34,7 +38,7 @@ reportecnico
 coding
 -----------
 
-4.- Excel con solucion del problema por los 4 metodos  -> 20 pts
+4.- Excel con solucion del problema por los metodos aplicables  -> 20 pts
 6.- Codigo Fuente Matlab ->    20 pts
 
 
