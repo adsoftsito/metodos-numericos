@@ -61,7 +61,12 @@ xk = 386
 yk = b0 + b1 * xk
 xk
 yk
-mytitle = ['Linear regression relation between x and y ' num2str(xk) ' ' num2str(yk)]
+
+# calculo de R^2
+R2 = 1 - sum((y - yCalc).^2)/sum((y - mean(y)).^2)
+R2
+
+mytitle = ['Linear regression relation between x and y, R ' num2str(xk) ' ' num2str(yk) ' ' num2str(R2)]
 mytitle 
 title(mytitle)
 grid on
