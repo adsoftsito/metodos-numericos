@@ -1,0 +1,53 @@
+Rubrica Parcial 3.
+
+Tareas - 20%
+
+- polinomio de newton
+- simpson
+- euler
+- heun
+- ralston
+- runge kuta 4
+
+
+Proyecto parcial (80%)
+
+Buscar :
+  - 1.- Caso de estudio con una ecuación diferencial
+  - 2.- Problema de calculo de area bajo la curva con Regla de Simpson
+  - 3.- Problema con polinomio de newton
+
+Para resolver un problema cientifico de su area de especialidad,
+resolverlo mediante los métodos de clase que
+sean aplicables.
+
+
+1.- Entrega en repositorio de github.com  -> 10pts
+
+
+2.- Herramienta para administrar tareas del proyecto
+    (microsoft project, trello, asana, gitHub, entre otros) -->  10 pts
+
+--------------
+3.- Reporte Tecnico en latex (subir .tex y .pdf),  (5 cuartillas)  -> 20 pts
+
+   - Introduccion
+   - Descripcion del problema a resolver
+   - Resultados
+   - Conclusiones
+
+
+coding
+-----------
+
+4.- Excel con solucion del problema por los metodos aplicables   -> 20pts
+6.- Codigo Fuente Matlab                                         -> 20 pts
+
+
+presentaciones
+------------------
+
+5.- Presentacion  en latex usando beamer (subir .tex y .pdf) -> 10 pts
+
+7.- Video corto de su aportación                             -> 10 pts    (5min maximo)
+--------------------------
