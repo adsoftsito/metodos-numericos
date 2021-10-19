@@ -1,17 +1,17 @@
 Rubrica Parcial 2.
+Fecha de entrega: Martes 2/nov/2021
 
-Tareas - 20%
-investigacion - 10% ( 2 proyectos de matlab academy )
-Proyecto parcial - 40% ( en equipos 4 o 5 personas )
+Tareas - 30%
+investigacion - 10% ( 2 proyectos de matlab academy ) ....
+Proyecto parcial - 60% ( en equipos 4 o 5 personas )
 
 
-Proyecto parcial (40%)
+Proyecto parcial (60%)
 
 Buscar :
- - 1.- un sistema de ecuaciones lineales
- - 2.- sistema de ecuaciones no lineales (newton-raphson para n
-variables)
- - 3.- regresion lineal
+ - 1.- un sistema de ecuaciones lineales ( cramer, jacobi, seidel, eliminacion, gauss-jordan), seleccion 3 metodos
+ - 2.- sistema de ecuaciones NO lineales ( solo metodo de newton-raphson para n variables)
+
 Para resolver un problema cientifico de su area de especialidad,
 resolverlo mediante los métodos de clase que
 sean aplicables.
@@ -19,21 +19,22 @@ sean aplicables.
 
 1.- Entrega en repositorio de github.com -> 10pts
 2.- Herramienta para administrar tareas del proyecto
- (microsoft project, trello, asana, gitHub, entre otros) -> 10
-pts
+ (microsoft project, trello, asana, gitHub, entre otros) -> 10 pts
+
+
 reportecnico
 --------------
-3.- Reporte Tecnico en latex (subir .tex y .pdf), (5 cuartillas) ->
-20
+3.- Reporte Tecnico en latex (subir .tex y .pdf), (5 cuartillas) -> 20
  - Introduccion
  - Descripcion del problema a resolver
  - Resultados
  - Conclusiones
+
 coding
 -----------
-4.- Excel con solucion del problema por los metodos aplicables -> 20
-pts
+4.- Excel con solucion del problema por los metodos aplicables -> 20 pts
 5.- Codigo Fuente Matlab -> 20 pts
+
 presentaciones
 ------------------
 6.- Presentacion en latex usando beamer (subir .tex y .pdf) -> 10 pts
