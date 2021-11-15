@@ -10,7 +10,12 @@ Tareas - 20%
 - runge kuta 4
 
 
-Proyecto parcial (80%)
+Investigacion - 10 %
+
+Tomar curso: Differential Equations in Action (elegir 2 temas)
+https://classroom.udacity.com/courses/cs222
+
+Proyecto parcial (70%)
 
 Buscar :
   - 1.- Caso de estudio con una ecuación diferencial
