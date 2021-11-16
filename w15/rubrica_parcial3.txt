@@ -1,7 +1,9 @@
 Rubrica Parcial 3.
+Fecha: 26/Nov/2021  8:30 hrs.
 
 Tareas - 20%
 
+- regresion lineal
 - polinomio de newton
 - simpson
 - euler
@@ -21,6 +23,7 @@ Buscar :
   - 1.- Caso de estudio con una ecuación diferencial
   - 2.- Problema de calculo de area bajo la curva con Regla de Simpson
   - 3.- Problema con polinomio de newton
+  - 4.- Regresion lineal (prediccion) netflix, ny ride, sales, formato CSV (Inteligencia Artificial, Big Data, Machine learning, Deep Learning...)
 
 Para resolver un problema cientifico de su area de especialidad,
 resolverlo mediante los métodos de clase que
